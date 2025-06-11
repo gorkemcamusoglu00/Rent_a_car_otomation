@@ -1,0 +1,16 @@
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\bin\Debug\Araç_Kiralama_Otomasyon.exe.config
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\bin\Debug\Araç_Kiralama_Otomasyon.exe
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\bin\Debug\Araç_Kiralama_Otomasyon.pdb
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.Form1.resources
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.Properties.Resources.resources
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.csproj.GenerateResource.cache
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Ara__Kir.ADCCF9D2.Up2Date
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.exe
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.pdb
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.Form_Users_Login.resources
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.Form_Register.resources
+C:\Users\gorke\source\repos\Araç_Kiralama_Otomasyon\obj\Debug\Araç_Kiralama_Otomasyon.Form_Rentals.resources

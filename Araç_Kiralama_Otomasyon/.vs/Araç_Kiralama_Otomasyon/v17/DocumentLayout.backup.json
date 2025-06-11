@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|c:\\users\\gorke\\source\\repos\\ara\u00E7_kiralama_otomasyon\\form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form_users_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\form_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\form_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form_rentals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:comboboxitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A34F2A-0232-4B17-9CF0-FFF83A4D0BDD}|Ara\u00E7_Kiralama_Otomasyon.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_Rentals.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Rentals.cs",
+              "RelativeDocumentMoniker": "Form_Rentals.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Rentals.cs",
+              "RelativeToolTip": "Form_Rentals.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAwwIsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:36:03.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Rentals.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Rentals.cs",
+              "RelativeDocumentMoniker": "Form_Rentals.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Rentals.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form_Rentals.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:26:43.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_Register.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Register.cs",
+              "RelativeDocumentMoniker": "Form_Register.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Register.cs",
+              "RelativeToolTip": "Form_Register.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwEwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:35:00.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form_Register.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Register.cs",
+              "RelativeDocumentMoniker": "Form_Register.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Register.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form_Register.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:12:37.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-08T21:05:15.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_Users_Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Users_Login.cs",
+              "RelativeDocumentMoniker": "Form_Users_Login.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Users_Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form_Users_Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:27:28.541Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_Users_Login.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Users_Login.cs",
+              "RelativeDocumentMoniker": "Form_Users_Login.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form_Users_Login.cs",
+              "RelativeToolTip": "Form_Users_Login.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:13:00.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:53:58.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComboBoxItem.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\ComboBoxItem.cs",
+              "RelativeDocumentMoniker": "ComboBoxItem.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\ComboBoxItem.cs",
+              "RelativeToolTip": "ComboBoxItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:58:04.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\Ara\u00E7_Kiralama_Otomasyon\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:54:51.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
